@@ -1,6 +1,10 @@
 # Changelog
 
-## [0.1] - 20.9.2020.
+## [0.1.1] - 19.  2. 2021.
+
+Only minor correction of quotation marks and commas. 
+
+## [0.1] - 20. 9. 2020.
 
 Initial release.
 
