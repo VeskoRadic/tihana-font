@@ -1,5 +1,9 @@
 # Changelog
 
+## 27. 2. 2021.
+
+Font points are rounded to integral values. Previously, due to the author's oversight when generating the font, this was not the case.
+
 ## [0.1.1] - 19.  2. 2021.
 
 Only minor correction of quotation marks and commas. 
